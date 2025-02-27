@@ -1,0 +1,5 @@
+{
+    "$schema": "https://unpkg.com/wrangler/config-schema.json",
+    "name": "nextjs-15-blog-starter-production-build-cpu-profiles",
+    "pages_build_output_dir": "."
+}
